@@ -27,9 +27,6 @@ Interactivity lies at the heart of the dashboard, allowing users to explore the 
 
 Visualizations are carefully designed to convey complex information in a clear and compelling manner. From interactive maps showcasing distribution of Airbnb listings to trend lines illustrating pricing dynamics, each visualization is crafted with precision to facilitate easy interpretation and understanding of the data.
 
-### Data Governance and Security
-
-Data governance and security protocols are paramount to maintaining the integrity and confidentiality of the data. The dashboard adheres to best practices in data governance, ensuring compliance with relevant regulations and safeguarding sensitive information against unauthorized access or misuse.
 
 ## Impact: Empowering Decision Makers
 
